@@ -1,7 +1,9 @@
 <h1 align="center">Project Flashbang</h1>
 <p align="left">Project Flashbang is private remake of services like CS Supremacy made for me and friends,</p>
-<p>project will slowly start to be open source excluding some parts because the project grew bigger than i planned and i would feel weird gatekeeping this</p>
-
+<p><s>project will slowly start to be open source excluding some parts because the project grew bigger than i planned and i would feel weird gatekeeping this</s></p>
+<p>Update: unfortunately i am not releasing anything because of potential legal issues that may happen.
+<br>Even though there hadn't been ANY actions from Valve towards such projects for years, i still don't feel safe enough to open source this project.<br>
+I will release the parsing library and probably FakeProfile plugin</p>
 
 <h2>Main repositories</h2>
 <ul>
@@ -26,15 +28,17 @@
 </ul>
 
 <h2>Estimated time for exact repository to become public</h2>
+<p><b>Read start of this readme for more info</b></p>
 <ul>
-  <li>Outpost - Unknown, its already in very good state but i don't know if releasing it is good idea</li>
-  <li>Breakout - May-June 2026, Its done but currently only parses from json files, and i need to implement converter from key values to json</li>
-  <li>Scout - Same time as Outpost</li>
-  <li>Hydra - Same time as Outpost, still has many things to be fixed, and probably will be rewritten before release to public</li>
-  <li>Seaside - Unknown</li>
-  <li>FakeProfile - Most likely never</li>
+  <li>Outpost - Never</li>
+  <li>Breakout - Unknown</li>
+  <li>Scout - Unknown</li>
+  <li>Hydra - Never</li>
+  <li>Seaside - Probably Never</li>
+  <li>FakeProfile - Unknown</li>
   <li>Phoenix - Never</li>
 </ul>
+
 
 <h2>Screenshots: </h2>
 <p>maybe in future</p>
