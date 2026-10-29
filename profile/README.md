@@ -1,9 +1,5 @@
 <h1 align="center">Project Flashbang</h1>
-<p align="left">Project Flashbang is private remake of services like CS Supremacy made for me and friends,</p>
-<p><s>project will slowly start to be open source excluding some parts because the project grew bigger than i planned and i would feel weird gatekeeping this</s></p>
-<p>Update: unfortunately i am not releasing anything because of potential legal issues that may happen.
-<br>Even though there hadn't been ANY actions from Valve towards such projects for years, i still don't feel safe enough to open source this project.<br>
-I will release the parsing library and probably FakeProfile plugin</p>
+<p align="left">Project Flashbang is private remake of services like CS Supremacy made for me and my friends</p>
 
 <h2>Main repositories</h2>
 <ul>
